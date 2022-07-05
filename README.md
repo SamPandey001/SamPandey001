@@ -1,6 +1,7 @@
-# Hi Bro i am Sam. Nice to meet me ya!  
+# Hi Bro i am Sam Pandey. Nice to meet me ya!  
 
-<img src="https://c.tenor.com/y9nm4uVkjUIAAAAi/cute.gif" width="32px">
+
+<a href="https://t.me/Sam_Pandey"><img align='centre' src='https://c.tenor.com/SpDpac3s-ccAAAAC/anime-boy.gif' width='200"'> </a>
 
 
 ### My about:
