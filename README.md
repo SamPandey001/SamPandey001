@@ -3,11 +3,9 @@
 <img src="https://c.tenor.com/y9nm4uVkjUIAAAAi/cute.gif" width="32px">
 
 
-<a href="https://t.me/Sam_Pandey"><img align='centre' src='https://c.tenor.com/SpDpac3s-ccAAAAC/anime-boy.gif' width='200"'> </a>
-
 ### My about:
 - 🔭 I’m a student Now.
-- ⭐  I'm 17 now
+- ⭐  I'm 17 .
 - 🌱 I’m currently learning AI and Machine Learning for my own interest. 
 -⚡ My current ongoing projects are: Zero Two Whatsapp Bot, Voice assistant and AI Chatbot.
 
