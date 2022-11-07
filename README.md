@@ -6,7 +6,7 @@
 - 🔭 I’m a student Now.
 - ⭐  I'm 17 .
 - 🌱 I’m currently learning AI and Machine Learning for my own interest. 
--⚡ My current ongoing projects are: Secktor Md Bot, Zero Two Whatsapp Bot, Voice assistant and AI Chatbot.
+- ⚡ My current ongoing projects are: Secktor Md Bot, Zero Two Whatsapp Bot, Voice assistant and AI Chatbot.
 
 <br>
 <br>
