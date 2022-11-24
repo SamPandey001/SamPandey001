@@ -1,7 +1,7 @@
 ## Hi, I'm Sam Pandey
-[![Profile views](https://komarev.com/ghpvc/?username=sampandeylabel=Profile%20views)](https://github.com/SamPandey001)
+[![Profile views](https://komarev.com/ghpvc/?username=sampandey&label=Profile%20views)](https://github.com/SamPandey001)
 - 💫 I’m currently working on [Secktor-Md](https://github.com/SamPandey001/Secktor-Md)
-- 📫 [How to reach me!](# 📫 How to reach me:)
+- 📫 [How to reach me!](https://github.com/SamPandey001/SamPandey001/blob/main/README.md#-how-to-reach-me)
 - ⚡ Always ready to help!
 
 ---
