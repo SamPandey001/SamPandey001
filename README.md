@@ -1,20 +1,22 @@
-# Hi Bro i am Sam Pandey. Nice to meet me ya!  
+## Hi, I'm Sam Pandey
+[![Profile views](https://komarev.com/ghpvc/?username=sampandeylabel=Profile%20views)](https://github.com/SamPandey001)
+- 💫 I’m currently working on [Secktor-Md](https://github.com/SamPandey001/Secktor-Md)
+- 📫 [How to reach me!](# 📫 How to reach me:)
+- ⚡ Always ready to help!
 
-<a href="https://t.me/Sam_Pandey"><img align='centre' src='https://c.tenor.com/SpDpac3s-ccAAAAC/anime-boy.gif' width='200"'> </a>
+---
+## 📊 Stats
 
-### My about:
-- 🔭 I’m a student Now.
-- ⭐  I'm 17 .
-- 🌱 I’m currently learning AI and Machine Learning for my own interest. 
-- ⚡ My current ongoing projects are: Secktor Md Bot, Zero Two Whatsapp Bot, Voice assistant and AI Chatbot.
+[![Metrics](https://metrics.lecoq.io/SamPandey001?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://github.com/SamPandey001/Secktor-Md)
 
-<br>
-<br>
+---
 
+## 🎵 Now playing
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31tvn6y7tjpbzwvacw3iitologtq&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true)](https://github.com/SamPandey001)
+
+---
 
 # 📫 How to reach me:
 [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919628516236)
 [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Sam_Pandey) <br>
-
-#### If you have any queries or suggestions then you can ping me.. <img src="https://c.tenor.com/y9nm4uVkjUIAAAAi/cute.gif" width="20px">
-<br>
